@@ -1,0 +1,21 @@
+11/04/2022 03:36:16 PM: INFO: ====== WebDriver manager ======
+11/04/2022 03:36:16 PM: INFO: Get LATEST chromedriver version for google-chrome 107.0.5304
+11/04/2022 03:36:16 PM: INFO: Driver [/Users/vishnu.vijayan/.wdm/drivers/chromedriver/mac_arm64/107.0.5304/chromedriver] found in cache
+11/04/2022 03:36:19 PM: INFO: Testcase 1
+11/04/2022 03:36:20 PM: INFO: Text entered	Admin	on	username TextBox
+11/04/2022 03:36:20 PM: INFO: Text entered	admin123	on	password TextBox
+11/04/2022 03:36:22 PM: INFO: clicked on	login button
+11/04/2022 03:36:22 PM: INFO: ====== WebDriver manager ======
+11/04/2022 03:36:22 PM: INFO: Get LATEST chromedriver version for google-chrome 107.0.5304
+11/04/2022 03:36:22 PM: INFO: Driver [/Users/vishnu.vijayan/.wdm/drivers/chromedriver/mac_arm64/107.0.5304/chromedriver] found in cache
+11/04/2022 03:36:25 PM: INFO: Testcase 2
+11/04/2022 03:36:25 PM: INFO: Text entered	Admin	on	username TextBox
+11/04/2022 03:36:25 PM: INFO: Text entered	admin123	on	password TextBox
+11/04/2022 03:36:27 PM: INFO: clicked on	login button
+11/04/2022 03:36:27 PM: INFO: ====== WebDriver manager ======
+11/04/2022 03:36:27 PM: INFO: Get LATEST chromedriver version for google-chrome 107.0.5304
+11/04/2022 03:36:27 PM: INFO: Driver [/Users/vishnu.vijayan/.wdm/drivers/chromedriver/mac_arm64/107.0.5304/chromedriver] found in cache
+11/04/2022 03:36:29 PM: INFO: Testcase 3
+11/04/2022 03:36:30 PM: INFO: Text entered	Admin	on	username TextBox
+11/04/2022 03:36:30 PM: INFO: Text entered	Admin	on	password TextBox
+11/04/2022 03:36:30 PM: INFO: clicked on	login button
